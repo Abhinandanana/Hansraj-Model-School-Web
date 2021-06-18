@@ -1,0 +1,61 @@
+#life iframe {
+   width: 100%; 
+}
+body {
+    text-align: center;
+}
+p {
+    margin-top: 40px;
+}
+h1 {
+    margin-top: 90px;
+}
+h2 {
+    font-size: 70px;
+margin-top: 80px;
+}
+#ca {
+ font-size: 70px;   
+}
+#style {
+    text-align: left;
+}
+#camp {
+    font-size: 50px;
+    text-align: left;
+    margin-top: 80px;
+        }
+p {
+    margin-bottom: 70px;
+    margin-top: 0px;
+}
+
+#res {
+    height: 300px;
+}
+#im {
+    height: 300px;
+}
+#content {
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.modal-content {
+    margin-top: 100px;
+}
+.modal-body {
+    text-align: center;
+}
+.modal-body p {
+    margin-top: 10px;
+}
+#ig {
+    width: 300px;
+}
+h2 {
+    margin-top: 140px;
+}
+#contd {
+    margin-top: 500px;
+}
